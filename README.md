@@ -1,4 +1,4 @@
-# Photo-filter
+# Photo-filter ( Rolling Scopes School )
 
 Deploy: https://lenko-igor.github.io/photo-filter/
 
